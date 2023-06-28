@@ -1,6 +1,6 @@
 # flutter_boilerplate
 
-A new Flutter project.
+a template to kick start any flutter project with flutter block architecture for state management
 
 ## Getting Started
 
